@@ -1,4 +1,10 @@
-# Gerenciamento de Indicadores 
+# Gerenciamento de Indicadores Tudo Aqui
+
+<br>
+<div align="center">
+<img src="dash/0.Tudo Aqui_Menu.png" />
+</div>
+<br>
 
 ## Contexto do Negócio 
 
@@ -21,3 +27,63 @@ Para análse da Visão Produto serão respondidas as seguintes questões:
 4. Quantidade de Produtos por Categoria;
 5. Quantidade de Fotos por Categoria.
 
+<br>
+<div align="center">
+<img src="dash/1.Tudo Aqui_Análise de Produtos.png" />
+</div>
+<br>
+
+## Visão Pagamento 
+
+Na análise da Visão Pagamento as questões apresentadas foram: 
+1. Quantidade de pedidos
+2. Valor total de pagamentos
+3. Quantidade de pagamentos
+4. Quantidade de pagamentos por tipo de pagamento (um por cartão)
+5. Valor total de pagamentos (por status do pedido)
+6. Quantidade de pagamentos (por tipo de pagamento)
+7. Hierarquia de valor médio de pagamentos por status do pedido e por tipo de 
+pagamento
+8. Detalhes dos pedidos por tipo de pagamento e pela quantidade de 
+pagamentos
+9. Número do pedido
+10. Tipo de Pagamento
+11. Status do Pedido
+
+<br>
+<div align="center">
+<img src="dash/2.Tudo Aqui_Análise de Pagamentos.png" />
+</div>
+<br>
+
+## Visão Pedidos 
+
+<br>
+<div align="center">
+<img src="dash/3.Tudo_Aqui_Análise de Pedidos.png" />
+</div>
+<br>
+
+## Visão Avaliações
+
+<br>
+<div align="center">
+<img src="dash/4.Tudo Aqui_Análise de Avaliações.png" />
+</div>
+<br>
+
+## Visão Vendedores 
+
+<br>
+<div align="center">
+<img src="dash/5.Tudo Aqui_Análise de Vendedores.png" />
+</div>
+<br>
+
+## Visão Vendas 
+
+<br>
+<div align="center">
+<img src="dash/6.Tudo Aqui_Análise de Vendas.png" />
+</div>
+<br>
